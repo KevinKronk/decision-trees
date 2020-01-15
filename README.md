@@ -1,6 +1,6 @@
 # decision-trees
 
-## Screenshot 
+## Screenshots
 
 ## Contributing 
 Pull requests are welcome. Otherwise the project is just a demonstration. 
